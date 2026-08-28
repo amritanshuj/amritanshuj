@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amritanshuj/amritanshuj/main/assets/banner.png?v=3" alt="Amritanshu Jha - Senior Software Engineer, Distributed Systems, Data Platforms" width="100%" />
+  <img src="https://raw.githubusercontent.com/amritanshuj/amritanshuj/main/assets/banner.png?v=4" alt="Amritanshu Jha - Senior Software Engineer, Distributed Systems, Data Platforms" width="100%" />
 </div>
 
 <br />
@@ -70,24 +70,24 @@ Production systems at Salesforce, Swiggy, and OYO are private. Public repos:
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/amritanshuj/SmartLink-URL-Shortener">SmartLink</a></h3>
+      <h3><a href="https://github.com/amritanshuj/SmartLink-URL-Shortener">Smart Link</a></h3>
       URL shortener for creating and sharing compact links.<br />
       <code>JavaScript</code>
     </td>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/amritanshuj/QuickShare">QuickShare</a></h3>
-      Drag-and-drop file sharing over a generated link.<br />
+      <h3><a href="https://github.com/amritanshuj/QuickShare">Quick Share</a></h3>
+      Drag and drop file sharing over a generated link.<br />
       <code>JavaScript</code>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/amritanshuj/SocialPal">SocialPal</a></h3>
+      <h3><a href="https://github.com/amritanshuj/SocialPal">Social Pal</a></h3>
       Social app with posts, comments, friends, and chat.<br />
       <code>JavaScript</code>
     </td>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/amritanshuj/Voice-Assistant">VoiceAssistant</a></h3>
+      <h3><a href="https://github.com/amritanshuj/Voice-Assistant">Voice Assistant</a></h3>
       Browser voice assistant using the Web Speech API.<br />
       <code>JavaScript</code>
     </td>
