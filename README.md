@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amritanshuj/amritanshuj/main/assets/header.png" alt="Amritanshu Jha - Senior Software Engineer, Distributed Systems, Data Platforms" width="100%" />
+  <img src="https://raw.githubusercontent.com/amritanshuj/amritanshuj/main/assets/header-v2.png" alt="Amritanshu Jha - Senior Software Engineer, Distributed Systems, Data Platforms" width="100%" />
 </div>
 
 <br />
