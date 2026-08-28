@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amritanshuj/amritanshuj/main/assets/banner.png?v=2" alt="Amritanshu Jha - Senior Software Engineer, Distributed Systems, Data Platforms" width="100%" />
+  <img src="https://raw.githubusercontent.com/amritanshuj/amritanshuj/main/assets/banner.png?v=3" alt="Amritanshu Jha - Senior Software Engineer, Distributed Systems, Data Platforms" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/amritanshuj"><img src="https://img.shields.io/badge/GitHub-amritanshuj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/amritanshu-jha"><img src="https://img.shields.io/badge/LinkedIn-amritanshu--jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:amritanshu.jha10@gmail.com"><img src="https://img.shields.io/badge/Email-amritanshu.jha10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru-238636?style=for-the-badge" alt="Bengaluru" />
+  <a href="https://github.com/amritanshuj"><img src="https://img.shields.io/badge/GitHub-amritanshuj-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/amritanshu-jha"><img src="https://img.shields.io/badge/LinkedIn-amritanshu--jha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:amritanshu.jha10@gmail.com"><img src="https://img.shields.io/badge/Email-amritanshu.jha10%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
@@ -68,38 +67,40 @@ Previously **Swiggy** (Delivery Platform) and **OYO** (Payments & Global Reconci
 
 Production systems at Salesforce, Swiggy, and OYO are private. Public repos:
 
-<div align="center">
-  <a href="https://github.com/amritanshuj/SmartLink-URL-Shortener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshuj&repo=SmartLink-URL-Shortener&theme=github_dark&hide_border=true" alt="SmartLink URL Shortener" />
-  </a>
-  <a href="https://github.com/amritanshuj/QuickShare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshuj&repo=QuickShare&theme=github_dark&hide_border=true" alt="QuickShare" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/amritanshuj/SocialPal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshuj&repo=SocialPal&theme=github_dark&hide_border=true" alt="SocialPal" />
-  </a>
-  <a href="https://github.com/amritanshuj/Voice-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshuj&repo=Voice-Assistant&theme=github_dark&hide_border=true" alt="Voice Assistant" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/amritanshuj/SmartLink-URL-Shortener">SmartLink</a></h3>
+      URL shortener for creating and sharing compact links.<br />
+      <code>JavaScript</code>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/amritanshuj/QuickShare">QuickShare</a></h3>
+      Drag-and-drop file sharing over a generated link.<br />
+      <code>JavaScript</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/amritanshuj/SocialPal">SocialPal</a></h3>
+      Social app with posts, comments, friends, and chat.<br />
+      <code>JavaScript</code>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/amritanshuj/Voice-Assistant">VoiceAssistant</a></h3>
+      Browser voice assistant using the Web Speech API.<br />
+      <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
 
-- **[SmartLink](https://github.com/amritanshuj/SmartLink-URL-Shortener)** — URL shortener for creating and sharing compact links
-- **[QuickShare](https://github.com/amritanshuj/QuickShare)** — Drag-and-drop file sharing over a generated link
-- **[SocialPal](https://github.com/amritanshuj/SocialPal)** — Social app with posts, comments, friends, and chat
-- **[Voice Assistant](https://github.com/amritanshuj/Voice-Assistant)** — Browser voice assistant using the Web Speech API
-- **SLAMS** (Salesforce, private) — SLA monitoring service for freshness, availability, and latency; Python, Flask, PySpark, EventBridge, Glue, Grafana, PagerDuty
+**SLAMS** (Salesforce, private) — SLA monitoring for freshness, availability, and latency. Python, Flask, PySpark, EventBridge, Glue, Grafana, PagerDuty.
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amritanshuj&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshuj&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amritanshuj&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="https://img.shields.io/github/followers/amritanshuj?style=flat-square&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/Public_Repos-17-181717?style=flat-square&logo=github" alt="Public repos" />
 </div>
 
 ## Contact
