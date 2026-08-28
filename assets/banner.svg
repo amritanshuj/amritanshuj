@@ -52,14 +52,10 @@
     <text x="84" y="24" text-anchor="middle" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace" font-size="13">Salesforce</text>
   </g>
   <g transform="translate(284, 292)">
-    <rect width="168" height="36" rx="8" fill="#21262d" stroke="#30363d"/>
-    <text x="84" y="24" text-anchor="middle" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace" font-size="13">Bengaluru</text>
-  </g>
-  <g transform="translate(464, 292)">
     <rect width="248" height="36" rx="8" fill="#21262d" stroke="#30363d"/>
     <text x="124" y="24" text-anchor="middle" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace" font-size="13">Go | Java | C++ | Python</text>
   </g>
-  <g transform="translate(724, 292)">
+  <g transform="translate(544, 292)">
     <rect width="168" height="36" rx="8" fill="#21262d" stroke="#30363d"/>
     <text x="84" y="24" text-anchor="middle" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace" font-size="13">6+ Years</text>
   </g>
